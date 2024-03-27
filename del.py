@@ -5,7 +5,7 @@ a=random.randint(1,100)
 i=5
 
 while i>0:
-    x=int(input())
+    x=int(input("enter your guess"))
     if x==a:
         print("you wom")
         break
